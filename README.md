@@ -4,6 +4,5 @@ Repository for Foundations class
 
 ### Instructors:
 
-*Joshua
-
-*Jordan
+* Joshua
+* Jordan
