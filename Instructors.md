@@ -1,7 +1,7 @@
 # Instructors
 
-* [Joshua](http.github.com)
+* [Joshua W](http.github.com)
   * Minn, MN 
-* [Jordan](http.github.com)
+* [Jordan M](http.github.com)
   * Boulder, CO
 
